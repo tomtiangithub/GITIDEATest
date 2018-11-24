@@ -1,0 +1,2 @@
+# GITIDEATest
+在IDEA上测试IGIT的使用
